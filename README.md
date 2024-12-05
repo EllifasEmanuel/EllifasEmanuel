@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td>
-      💻&emsp;-&emsp;Atualmente estou trabalhando com front-end e back-end.<br>
-      🌱&emsp;-&emsp;Estou aperfeiçoando meu conhecimento em JavaScript, PHP e MySQL.<br>
+      💻&emsp;-&emsp;Atualmente estou trabalho como full-stack.<br>
+      🌱&emsp;-&emsp;Sempre buscando aperfeiçoar meus conhecimentos.<br>
       📫&emsp;-&emsp;Contate-me pelo email: <a href="mailto:ellifasemanuel2000@gmail.com">ellifasemanuel2000@gmail.com</a>
     </td>
     <td>

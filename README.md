@@ -16,18 +16,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td> 
-      <a href="https://github.com/EllifasEmanuel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EllifasEmanuel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllifasEmanuel&layout=compact&langs_count=7&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
 <div>
   <a href="https://www.linkedin.com/in/ellifas-emanuel-1a0340207/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
